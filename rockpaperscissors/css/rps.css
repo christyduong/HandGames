@@ -1,0 +1,11 @@
+#layer1 {
+	height: 2000px;
+	width: 2000px;
+	background-color: salmon;
+	position: absolute;
+	z-index : 1;
+}
+
+.hidden {
+	opacity: 0;
+}
